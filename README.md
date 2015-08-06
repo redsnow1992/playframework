@@ -1,2 +1,2 @@
 # playframework
- playframework docker
+playframework docker with play2.4 jdk8
